@@ -4,7 +4,7 @@ import logging
 
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 
-desired_directory = r"Classification-Projects-main-new"
+desired_directory = r"c:\Users\RodrigoMartínezAlons\OneDrive - Sparrow Networks GmbH\Python\Classification-Projects-main-new"
 os.chdir(desired_directory)
 print("Current Working Directory:", os.getcwd()) 
 
